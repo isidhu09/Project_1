@@ -1,6 +1,4 @@
-# COVID-19 Crunchers
-
-NU Data Science Boot Camp: Project 1
+# COVID-19 Data Crunch
 
 Submitted by Harish Korrapati, Britney Washington, Ishanjit Sidhu, Corey Lawson-Enos
 
